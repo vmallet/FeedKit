@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		61788F3C26410E9F00D9CF0C /* RSS2-slash.xml in Resources */ = {isa = PBXBuildFile; fileRef = 61788F3B26410E9F00D9CF0C /* RSS2-slash.xml */; };
+		61788F3D26410E9F00D9CF0C /* RSS2-slash.xml in Resources */ = {isa = PBXBuildFile; fileRef = 61788F3B26410E9F00D9CF0C /* RSS2-slash.xml */; };
+		61788F3E26410E9F00D9CF0C /* RSS2-slash.xml in Resources */ = {isa = PBXBuildFile; fileRef = 61788F3B26410E9F00D9CF0C /* RSS2-slash.xml */; };
 		A01F67A01D1692B20038910F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01F679C1D16922D0038910F /* ViewController.swift */; };
 		A01F67A11D16931A0038910F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A01F67991D1691510038910F /* Main.storyboard */; };
 		A081C41921C14B04001BC29C /* Date + codingStrategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = A081C41821C14B04001BC29C /* Date + codingStrategy.swift */; };
@@ -575,6 +578,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		61788F3B26410E9F00D9CF0C /* RSS2-slash.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "RSS2-slash.xml"; sourceTree = "<group>"; };
 		A01F679A1D1691510038910F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A01F679C1D16922D0038910F /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ViewController.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A0370EB91CEF9D5A009583A3 /* FeedKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FeedKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1136,6 +1140,7 @@
 				A0F6B9B31F6E6FA700220625 /* RDF.xml */,
 				A0F6B9B41F6E6FA700220625 /* RDFDC.xml */,
 				A0F6B9B51F6E6FA700220625 /* RSS2.xml */,
+				61788F3B26410E9F00D9CF0C /* RSS2-slash.xml */,
 				A0F6B9B61F6E6FA700220625 /* RSSDC.xml */,
 				A0F6B9B71F6E6FA700220625 /* RSSMedia.xml */,
 				A0F6B9B81F6E6FA700220625 /* Syndication.xml */,
@@ -1483,6 +1488,7 @@
 				A0F6B9D71F6E713F00220625 /* Content.xml in Resources */,
 				A0F6B9D51F6E713F00220625 /* Atom.xml in Resources */,
 				A0F6B9E01F6E714400220625 /* feed.json in Resources */,
+				61788F3C26410E9F00D9CF0C /* RSS2-slash.xml in Resources */,
 				A0F6B9D61F6E713F00220625 /* AtomMedia.xml in Resources */,
 				A0F6B9DD1F6E713F00220625 /* RSSDC.xml in Resources */,
 			);
@@ -1503,6 +1509,7 @@
 				A0F6B9CC1F6E713F00220625 /* Content.xml in Resources */,
 				A0F6B9CA1F6E713F00220625 /* Atom.xml in Resources */,
 				A0F6B9E11F6E714400220625 /* feed.json in Resources */,
+				61788F3D26410E9F00D9CF0C /* RSS2-slash.xml in Resources */,
 				A0F6B9CB1F6E713F00220625 /* AtomMedia.xml in Resources */,
 				A0F6B9D21F6E713F00220625 /* RSSDC.xml in Resources */,
 			);
@@ -1523,6 +1530,7 @@
 				A0F6B9C11F6E713E00220625 /* Content.xml in Resources */,
 				A0F6B9BF1F6E713E00220625 /* Atom.xml in Resources */,
 				A0F6B9E21F6E714400220625 /* feed.json in Resources */,
+				61788F3E26410E9F00D9CF0C /* RSS2-slash.xml in Resources */,
 				A0F6B9C01F6E713E00220625 /* AtomMedia.xml in Resources */,
 				A0F6B9C71F6E713F00220625 /* RSSDC.xml in Resources */,
 			);

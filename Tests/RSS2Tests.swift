@@ -201,7 +201,102 @@ class RSS2Tests: BaseTestCase {
 
         
     }
-    
+
+    //TODO: if this survives, merge it with the RSS2 test
+    func testFeedItemsSlash() {
+
+        // Given
+        let URL = fileURL("RSS2-slash", type: "xml")
+        let parser = FeedParser(URL: URL)
+
+        // When
+        do {
+
+            let feed = try parser.parse().get().rssFeed
+
+            // Then
+            XCTAssertNotNil(feed)
+
+            XCTAssertNotNil(feed?.items)
+            XCTAssertEqual(feed?.items?.count, 2)
+
+            XCTAssertEqual(feed?.items?.first?.title, "Ingenuity Completes Fourth Flight on Mars, Gets a New Mission")
+            XCTAssertEqual(feed?.items?.first?.link, "https://hackaday.com/2021/05/02/ingenuity-completes-fourth-flight-on-mars-gets-a-new-mission/")
+            XCTAssertNil(feed?.items?.first?.author)
+
+            XCTAssertNotNil(feed?.items?.first?.categories)
+            XCTAssertEqual(feed?.items?.first?.categories?.count, 10)
+
+            XCTAssertEqual(feed?.items?.first?.categories?.first?.value, "News")
+            XCTAssertNil(feed?.items?.first?.categories?.first?.attributes)
+            XCTAssertEqual(feed?.items?.first?.categories?.first?.attributes?.domain, nil)
+
+            XCTAssertEqual(feed?.items?.first?.categories?.last?.value, "uav")
+//            XCTAssertNotNil(feed?.items?.first?.categories?.last?.attributes) //TODO: fix this
+
+            XCTAssertEqual(feed?.items?.first?.comments, "https://hackaday.com/2021/05/02/ingenuity-completes-fourth-flight-on-mars-gets-a-new-mission/#comments")
+            XCTAssertEqual(feed?.items?.first?.commentCount, 5)
+//TODO: Do something about the description field
+            //            XCTAssertEqual(feed?.items?.first?.description, "I'm headed for France. I wasn't gonna go this year, but then last week \"Valley Girl\" came out and I said to myself, Joe Bob, you gotta get out of the country for a while.")
+
+            XCTAssertNil(feed?.items?.first?.enclosure)
+
+            XCTAssertNotNil(feed?.items?.first?.guid)
+            XCTAssertEqual(feed?.items?.first?.guid?.value, "https://hackaday.com/?p=474805")
+            XCTAssertEqual(feed?.items?.first?.guid?.attributes?.isPermaLink, false)
+
+            XCTAssertNotNil(feed?.items?.first?.pubDate)
+
+//TODO: fix the rest of the test
+//            XCTAssertNotNil(feed?.items?.first?.source)
+//            XCTAssertEqual(feed?.items?.first?.source?.value, "Los Angeles Herald-Examiner")
+//            XCTAssertNotNil(feed?.items?.first?.source?.attributes)
+//            XCTAssertEqual(feed?.items?.first?.source?.attributes?.url, "http://la.example.com/rss.xml")
+//
+//            XCTAssertEqual(feed?.items?.last?.title, "Seventh Heaven! Ryan Hurls Another No Hitter")
+//            XCTAssertEqual(feed?.items?.last?.link, "http://dallas.example.com/1991/05/02/nolan.htm")
+//            XCTAssertEqual(feed?.items?.last?.author, "jbb@dallas.example.com (Joe Bob Briggs)")
+//
+//            XCTAssertNotNil(feed?.items?.last?.categories)
+//            XCTAssertEqual(feed?.items?.last?.categories?.count, 2)
+//
+//            XCTAssertEqual(feed?.items?.last?.categories?.first?.value, "movies")
+//            XCTAssertNil(feed?.items?.last?.categories?.first?.attributes)
+//            XCTAssertEqual(feed?.items?.last?.categories?.first?.attributes?.domain, nil)
+//
+//            XCTAssertEqual(feed?.items?.last?.categories?.last?.value, "1983/V")
+//            XCTAssertNotNil(feed?.items?.last?.categories?.last?.attributes)
+//            XCTAssertEqual(feed?.items?.last?.categories?.last?.attributes?.domain, "rec.arts.movies.reviews")
+//
+//            XCTAssertEqual(feed?.items?.last?.comments, "http://dallas.example.com/feedback/1983/06/joebob.htm")
+            XCTAssertEqual(feed?.items?.last?.commentCount, 0)
+//            XCTAssertEqual(feed?.items?.last?.description, "I\'m headed for France. I wasn\'t gonna go this year, but then last week <a href=\"http://www.imdb.com/title/tt0086525/\">Valley Girl</a> came out and I said to myself, Joe Bob, you gotta get out of the country for a while.")
+//
+//            XCTAssertNotNil(feed?.items?.last?.enclosure)
+//            XCTAssertNotNil(feed?.items?.last?.enclosure?.attributes)
+//            XCTAssertEqual(feed?.items?.last?.enclosure?.attributes?.length, 24986239)
+//            XCTAssertEqual(feed?.items?.last?.enclosure?.attributes?.type, "audio/mpeg")
+//            XCTAssertEqual(feed?.items?.last?.enclosure?.attributes?.url, "http://dallas.example.com/joebob_050689.mp3")
+//
+//            XCTAssertNotNil(feed?.items?.last?.guid)
+//            XCTAssertEqual(feed?.items?.last?.guid?.value, "http://dallas.example.com/item/1234")
+//            XCTAssertNotNil(feed?.items?.last?.guid?.attributes)
+//            XCTAssertEqual(feed?.items?.last?.guid?.attributes?.isPermaLink, true)
+//
+//            XCTAssertNotNil(feed?.items?.last?.pubDate)
+//
+//            XCTAssertNotNil(feed?.items?.last?.source)
+//            XCTAssertEqual(feed?.items?.last?.source?.value, "Los Angeles Herald-Examiner")
+//            XCTAssertNotNil(feed?.items?.last?.source?.attributes)
+//            XCTAssertEqual(feed?.items?.last?.source?.attributes?.url, "http://la.example.com/rss.xml")
+
+        } catch {
+            XCTFail(error.localizedDescription)
+        }
+
+
+    }
+
     func testRSS2FeedParsingPerformance() {
 
         self.measure {

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:media="http://search.yahoo.com/mrss/"
+		>
+
+<channel>
+	<title>Blog &#8211; Hackaday</title>
+	<atom:link href="https://hackaday.com/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hackaday.com</link>
+	<description>Fresh hacks every day</description>
+	<lastBuildDate>Sun, 02 May 2021 04:24:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">156670177</site>	<item>
+		<title>Ingenuity Completes Fourth Flight on Mars, Gets a New Mission</title>
+		<link>https://hackaday.com/2021/05/02/ingenuity-completes-fourth-flight-on-mars-gets-a-new-mission/</link>
+					<comments>https://hackaday.com/2021/05/02/ingenuity-completes-fourth-flight-on-mars-gets-a-new-mission/#comments</comments>
+		
+		<dc:creator><![CDATA[Dan Maloney]]></dc:creator>
+		<pubDate>Sun, 02 May 2021 14:00:04 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[helicopter]]></category>
+		<category><![CDATA[Ingenuity]]></category>
+		<category><![CDATA[Jezero]]></category>
+		<category><![CDATA[mars]]></category>
+		<category><![CDATA[mission]]></category>
+		<category><![CDATA[Perseverance]]></category>
+		<category><![CDATA[planetary]]></category>
+		<category><![CDATA[uav]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=474805</guid>
+
+					<description><![CDATA[<div><img width="800" height="484" src="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg 3000w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=2048,1239 2048w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="430166" data-permalink="https://hackaday.com/2020/09/02/an-up-close-look-at-the-first-martian-helicopter/martianhelicopter/" data-orig-file="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg" data-orig-size="3000,1815" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="MartianHelicopter" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?w=800" /></div>It&#8217;s the same on Mars as it is here &#8212; just when you&#8217;re getting used to your job, the bosses go and change things up. At least that&#8217;s our read <a href="https://hackaday.com/2021/05/02/ingenuity-completes-fourth-flight-on-mars-gets-a-new-mission/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="484" src="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg 3000w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?resize=2048,1239 2048w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="430166" data-permalink="https://hackaday.com/2020/09/02/an-up-close-look-at-the-first-martian-helicopter/martianhelicopter/" data-orig-file="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg" data-orig-size="3000,1815" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="MartianHelicopter" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg?w=800" /></div><p>It&#8217;s the same on Mars as it is here &#8212; just when you&#8217;re getting used to your job, the bosses go and change things up.</p>
+<p>At least that&#8217;s our read on the situation at Jezero crater, where <a href="https://mars.nasa.gov/news/8936/nasas-ingenuity-helicopter-to-begin-new-demonstration-phase/" target="_blank">the Mars Ingenuity helicopter has just had its mission upgraded and extended</a>. In <a href="https://www.youtube.com/watch?v=BAlXe-U0ws4" target="_blank">a Friday morning press conference</a>, the Ingenuity flight team, joined by members of the Perseverance team and some NASA brass, made the announcement that Ingenuity had earned an extra 30 sols of flight time, and would be transitioned from a mere &#8220;technology demonstrator&#8221; to an &#8220;operations demonstration&#8221; phase. They also announced Ingenuity&#8217;s fourth flight, which concluded successfully today, covering 266 meters and staying airborne for 117 seconds.</p>
+<p><span id="more-474805"></span></p>
+<figure id="attachment_474819" aria-describedby="caption-attachment-474819" style="width: 800px" class="wp-caption aligncenter"><a href="https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg" target="_blank"><img data-attachment-id="474819" data-permalink="https://hackaday.com/2021/05/02/ingenuity-completes-fourth-flight-on-mars-gets-a-new-mission/ingenuity-fourth-flight/" data-orig-file="https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ingenuity fourth flight" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg?w=800" loading="lazy" class="size-large wp-image-474819" src="https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg?w=800" alt="" width="800" height="450" srcset="https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg 1280w, https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-474819" class="wp-caption-text">Fourth flight of Ingenuity (circled), captured by Perseverance rover. Source: NASA/JPL</figcaption></figure>
+<p>There are two main drivers of the mission extension. The first is that Ingenuity has achieved all of the technical goals set out for it in terms of proving that a helicopter can fly in the Martian atmosphere and operate autonomously. In doing this, Ingenuity has gathered a large data set that will inform the design of future UAVs for planetary exploration. But that alone would not have been enough to justify the mission extension. Ingenuity was always an add-on, designed to take up as few resources as possible from the primary mission of Perseverance, which is to gather samples in the search for ancient life on Mars. The plan was for the rover to stay near Ingenuity to support flight operations for 30 sols, then head out to the more interesting areas of Jezero crater to explore and gather samples.</p>
+<p>But as it turns out, the area around Ingenuity&#8217;s operational area, known as Wright Brothers Field, is far more interesting to planetary scientists than originally anticipated, as revealed by Perseverance&#8217;s instruments. This presents the opportunity for the rover to stay put for now, get some sampling and science down, and still support Ingenuity&#8217;s now-extended mission.</p>
+<p>We find this an exciting development, and we&#8217;re looking forward to the data and images that come from the now-overlapping missions of Ingenuity and Perseverance. To learn more about these amazing spacecraft, check out our deep dives on <a href="https://hackaday.com/2020/07/30/geocaching-on-mars-how-perseverance-will-seal-martian-samples-with-a-return-to-earth-in-mind/">the rover itself</a> and <a href="https://hackaday.com/2020/09/02/an-up-close-look-at-the-first-martian-helicopter/">its companion helicopter</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2021/05/02/ingenuity-completes-fourth-flight-on-mars-gets-a-new-mission/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">474805</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2020/08/MartianHelicopter.jpg" medium="image">
+			<media:title type="html">MartianHelicopter</media:title>
+		</media:content>
+
+		<media:content url="https://hackaday.com/wp-content/uploads/2021/04/ingenuity-fourth-flight.jpg?w=800" medium="image" />
+	</item>
+		<item>
+		<title>An Epic Quest to Put More Music on an iPod Nano 3G</title>
+		<link>https://hackaday.com/2021/05/02/an-epic-quest-to-put-more-music-on-an-ipod-nano-3g/</link>
+					<comments>https://hackaday.com/2021/05/02/an-epic-quest-to-put-more-music-on-an-ipod-nano-3g/#respond</comments>
+		
+		<dc:creator><![CDATA[Tom Nardi]]></dc:creator>
+		<pubDate>Sun, 02 May 2021 11:00:11 +0000</pubDate>
+				<category><![CDATA[classic hacks]]></category>
+		<category><![CDATA[ipod hacks]]></category>
+		<category><![CDATA[flash storage]]></category>
+		<category><![CDATA[ipod]]></category>
+		<category><![CDATA[ipod nano]]></category>
+		<category><![CDATA[Rockbox]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=474147</guid>
+
+					<description><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg 800w, https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="474151" data-permalink="https://hackaday.com/2021/05/02/an-epic-quest-to-put-more-music-on-an-ipod-nano-3g/16gbnano_feat/" data-orig-file="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="16gbnano_feat" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?w=800" /></div>While many would argue that the original iPod is the most iconic entry in the long and diverse line of digital audio players that Apple released over the years, there <a href="https://hackaday.com/2021/05/02/an-epic-quest-to-put-more-music-on-an-ipod-nano-3g/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg 800w, https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="474151" data-permalink="https://hackaday.com/2021/05/02/an-epic-quest-to-put-more-music-on-an-ipod-nano-3g/16gbnano_feat/" data-orig-file="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="16gbnano_feat" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg?w=800" /></div><p>While many would argue that the original iPod is the most iconic entry in the long and diverse line of digital audio players that Apple released over the years, there must certainly be some consideration for the third generation (3G) iPod Nano. It&#8217;s a device that was ahead of its time in many ways, and is still perfectly usable today, although <a href="https://www.youtube.com/watch?v=5zk2CDQ5N9A" target="_blank">[Tucker Osman] does think it could stand to have its maximum flash storage doubled to 16 GB</a>.</p>
+<p>Now, we&#8217;d like to tell you that he&#8217;s already succeeded in this task. After all, in theory, it should be pretty straightforward: just remove the 8 GB flash chip and replace it with a pin-compatible 16 GB version. But of course, this is Apple we&#8217;re talking about. Nothing is ever quite that easy, and it seems that at every turn both the hardware and software in the thirteen-year-old iPod are fighting the change.</p>
+<p><a href="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg" target="_blank"><img data-attachment-id="474149" data-permalink="https://hackaday.com/2021/05/02/an-epic-quest-to-put-more-music-on-an-ipod-nano-3g/16gbnano_detail/" data-orig-file="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg" data-orig-size="978,594" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="16gbnano_detail" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg?w=800" loading="lazy" class="alignright size-medium wp-image-474149" src="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg?w=400" alt="" width="400" height="243" srcset="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg 978w, https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg?resize=250,152 250w, https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg?resize=400,243 400w, https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg?resize=800,486 800w" sizes="(max-width: 400px) 100vw, 400px" /></a>It took several attempts before the original flash chip could be swapped out, but eventually [Tucker] and his friend [Wesley] got one to survive the operation. Unfortunately, all they had to show for their effort was an unhelpful error screen.</p>
+<p>From here on out the assumption was that they were dealing with a software problem. Luckily the Rockbox bootloader had previously been ported to the 3G Nano, which helped get the ball rolling. The next step would be to patch the Nano&#8217;s firmware to accept the ID of the new flash chip, but after a year of work, it&#8217;s turned out to be a <em>bit</em> more complicated than that.</p>
+<p>[Tucker] hasn&#8217;t given up yet, and is actively looking for anyone who&#8217;d like to help out with his quest. <a href="https://hackaday.io/project/173985-ipod-nano-3rd-gen-mlc-nand-upgrade-software-hack" target="_blank">He&#8217;s shared some information with a few like minded individuals on Hackaday.io</a>, and he&#8217;s also started a <a href="https://discord.com/invite/bah8hgkTQs" target="_blank">Discord server dedicated to Nano hacking</a>. At this point, it sounds like he&#8217;s very close to actually reading data from the 16 GB chip, but there&#8217;s still a long way to go before the Nano&#8217;s firmware will actually play music from it.</p>
+<p>Despite most people now using their smartphones to play music these days, we still see a lot of interest in upgrading and modernizing the iPod. From <a href="https://hackaday.com/2018/03/30/giving-a-6th-generation-ipod-a-new-lease-on-life/">replacing their original hard drives with micro SD cards</a> to <a href="https://hackaday.com/2021/01/27/raspberry-pi-zero-powers-spotify-streaming-ipod/">installing a Raspberry Pi Zero in place of the original electronics</a>, hackers are still infatuated with Apple&#8217;s legendary media player.</p>
+<p><span id="more-474147"></span></p>
+<p><iframe class='youtube-player' width='800' height='480' src='https://www.youtube.com/embed/5zk2CDQ5N9A?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation'></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2021/05/02/an-epic-quest-to-put-more-music-on-an-ipod-nano-3g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">474147</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_feat.jpg" medium="image">
+			<media:title type="html">16gbnano_feat</media:title>
+		</media:content>
+
+		<media:content url="https://hackaday.com/wp-content/uploads/2021/04/16gbnano_detail.jpg?w=400" medium="image" />
+	</item>
+	</channel>
+</rss>
