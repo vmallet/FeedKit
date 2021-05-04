@@ -101,6 +101,9 @@ public class RSSFeedItem {
     /// More about comments here:
     /// http://cyber.law.harvard.edu/rss/weblogComments.html
     public var comments: String?
+
+    /// Experimental: count of comments, if knonw
+    public var commentCount: Int?
     
     /// Describes a media object that is attached to the item.
     /// 
